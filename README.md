@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
 
-**ComplexIPS** is a PyTorch implementation of complex-valued neural networks grounded in the **Information Processing System (IPS)** framework. It formalizes neurons as quantum‑inspired systems that maintain a complex state \(|\psi\rangle\), and learn to balance goal achievement against computational cost under an energy budget. The layer supports both standard autograd training and a **local, bio‑plausible learning rule** based on Wirtinger calculus, with an optional asymmetry factor that introduces an “arrow of time”.
+**ComplexIPS** is a PyTorch implementation of complex-valued neural networks grounded in the **Information Processing System (IPS)** framework. It formalizes neurons as quantum‑inspired systems that maintain a complex state, and learn to balance goal achievement against computational cost under an energy budget. The layer supports both standard autograd training and a **local, bio‑plausible learning rule** based on Wirtinger calculus, with an optional asymmetry factor that introduces an “arrow of time”.
 
 This repository accompanies the theoretical work presented in:
 
